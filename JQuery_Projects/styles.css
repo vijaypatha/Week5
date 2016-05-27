@@ -1,0 +1,10 @@
+.big{
+  font-size: 2em;
+  color: coral;
+}
+.bigger{
+  border: solid 2px black;
+}
+.rats{
+  background-color: lightyellow;
+}
